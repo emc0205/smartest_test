@@ -1,5 +1,6 @@
 # smartest_test
 User Guide
+
 Run the entire notebook daily to generate the outputs and graphs analysing the data for the previous day.
 After running the code, 
 daily_imbalance_reporting will be the dataset containing the half hourly imbalance prices, imbalance quantities, imbalance costs and imbalance unit rate
